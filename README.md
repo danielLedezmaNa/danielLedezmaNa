@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/WHATSAPP_NUMBER">WhatsApp</a> ·
-  <a href="https://www.linkedin.com/in/danielledezmana/">LinkedIn</a> ·
   <a href="mailto:hola@estudioaltiplano.mx">Correo</a> ·
+  <a href="https://www.linkedin.com/in/danielledezmana/">LinkedIn</a> ·
   <a href="https://estudioaltiplano.mx">estudioaltiplano.mx</a>
 </p>
 
@@ -50,20 +49,20 @@ sin cuota mensual de licencias.
 
 | Proyecto | Tipo | Estado |
 |---|---|---|
+| **[Estudio Altiplano](https://estudioaltiplano.mx)** | Sitio del estudio, bilingüe ES/EN | En línea |
 | **Churros La Pinta** | Churrería · Villa de Pozos, S.L.P. | En desarrollo |
-| **Estudio Altiplano** | Sitio del estudio, bilingüe ES/EN | En desarrollo |
 
 ---
 
 ## ¿Tienes un negocio en SLP?
 
-Mándame un WhatsApp con lo que haces y lo que necesitas. Te respondo con una recomendación
+Escríbeme con lo que haces y lo que necesitas. Te respondo con una recomendación
 honesta y una cotización cerrada — gratis y sin compromiso.
 
 Si un sitio web no es la respuesta correcta para tu negocio, también te lo digo.
 
 <p align="center">
-  <a href="https://wa.me/WHATSAPP_NUMBER">
-    <img src="https://img.shields.io/badge/Cotizar_por_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Cotizar por WhatsApp">
+  <a href="mailto:hola@estudioaltiplano.mx?subject=Cotizaci%C3%B3n%20de%20sitio%20web">
+    <img src="https://img.shields.io/badge/Cotizar_por_correo-FF6B35?style=for-the-badge&logo=maildotru&logoColor=white" alt="Cotizar por correo">
   </a>
 </p>
